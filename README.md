@@ -26,6 +26,8 @@
    </tr>
 </table>
 
+<td align="center"><a href="https://www.kaggle.com/code/ilterissamur/credit-score-prediction-with-92-accuracy">Kaggle Link of Project</a></td>
+
 <!-- About the project -->
 
 <h3>About the Project</h3>
